@@ -55,4 +55,6 @@ The image generation and upscaling process utilize two different models:
 ### Note
 - While the code can be executed on both Google Colab and local machines, it's essential to consider hardware constraints. The provided information suggests that the upscaler runs faster on the local machine due to compatibility with Vulkan.
 - Careful attention should be paid to image dimensions, particularly when generating human images, to avoid distortion and duplication.
-- The resolution of the generated images may not exactly match the specified dimensions due to constraints imposed by the image generation model (Absolute Reality).
+- The resolution of the generated images may not exactly match the specified dimensions due to constraints imposed by the image generation model (Absolute Reality)
+- The Upscaler only goes upto 95.83% on google colab but only local machine It's works
+perfectly 
