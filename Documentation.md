@@ -43,7 +43,7 @@ The image generation and upscaling process utilize two different models:
 1. Execute the provided code in a Google Colab notebook environment.
 2. Ensure that all necessary dependencies are installed using the `pip install` commands provided.
 3. Run the code cells sequentially to generate and upscale images.
-
+Warning: The Upscaler only goes upto 95.83% on google colab but only local machine It's works perfectly 
 ### Local Machine
 1. Ensure that Python and required libraries are installed, including Vulkan for GPU acceleration.
 2. Clone the Real-ESRGAN-W-Ultrasharp4x repository from GitHub.
