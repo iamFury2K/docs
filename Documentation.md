@@ -12,7 +12,7 @@ To run the provided code successfully, ensure that the following software depend
 4. Accelerate
 5. Diffusers
 6. Xformers
-7. Vulkan (for local machine)
+7. Vulkan 
 
 For convenience, you can install these dependencies using pip, as demonstrated in the code snippet below:
 
@@ -43,7 +43,7 @@ The image generation and upscaling process utilize two different models:
 1. Execute the provided code in a Google Colab notebook environment.
 2. Ensure that all necessary dependencies are installed using the `pip install` commands provided.
 3. Run the code cells sequentially to generate and upscale images.
-- Warning: The Upscaler only goes upto 95.83% on google colab but only local machine It's works perfectly 
+- Warning: The Upscaler only goes upto 95.83% on google colab but only local machine It works perfectly 
 ### Local Machine
 1. Ensure that Python and required libraries are installed, including Vulkan for GPU acceleration.
 2. Clone the Real-ESRGAN-W-Ultrasharp4x repository from GitHub.
@@ -56,5 +56,5 @@ The image generation and upscaling process utilize two different models:
 - While the code can be executed on both Google Colab and local machines, it's essential to consider hardware constraints. The provided information suggests that the upscaler runs faster on the local machine due to compatibility with Vulkan.
 - Careful attention should be paid to image dimensions, particularly when generating human images, to avoid distortion and duplication.
 - The resolution of the generated images may not exactly match the specified dimensions due to constraints imposed by the image generation model (Absolute Reality)
-- The Upscaler only goes upto 95.83% on google colab but only local machine It's works
+- The Upscaler only goes upto 95.83% on google colab but on local machine It works
 perfectly 
