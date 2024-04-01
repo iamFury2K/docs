@@ -59,3 +59,20 @@ The image generation and upscaling process utilize two different models:
 - The Upscaler only goes upto 95.83% on google colab but on local machine It works
 perfectly 
 ### Example Images
+
+
+![generated_img7](https://github.com/iamFury2K/docs/assets/73428754/05ca39d0-cd4f-4e3e-a486-04974ac27b32)
+![generated_img4](https://github.com/iamFury2K/docs/assets/73428754/fa8c5d91-e646-4d6c-bada-f46e49634dc1)
+![generated_img2](https://github.com/iamFury2K/docs/assets/73428754/0240ccaf-8829-4baf-8614-8789f269e67e)
+![generated_img8](https://github.com/iamFury2K/docs/assets/73428754/3b4cc644-3de3-4f44-bbe4-6fd356b5b68b)
+![generated_img5](https://github.com/iamFury2K/docs/assets/73428754/54317ba1-df39-4733-b24e-e377435eaadf)
+![generated_img3](https://github.com/iamFury2K/docs/assets/73428754/e208d48b-e956-40ee-9e5f-9dc8df586d16)
+![generated_img1](https://github.com/iamFury2K/docs/assets/73428754/2e45aec0-347f-4bc5-805e-213a7c2f3f8e)
+
+
+
+
+
+
+
+
