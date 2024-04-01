@@ -58,3 +58,4 @@ The image generation and upscaling process utilize two different models:
 - The resolution of the generated images may not exactly match the specified dimensions due to constraints imposed by the image generation model (Absolute Reality)
 - The Upscaler only goes upto 95.83% on google colab but on local machine It works
 perfectly 
+### Example Images
