@@ -61,13 +61,13 @@ perfectly
 ### Example Images
 
 
-![generated_img7](https://github.com/iamFury2K/docs/assets/73428754/05ca39d0-cd4f-4e3e-a486-04974ac27b32)
-![generated_img4](https://github.com/iamFury2K/docs/assets/73428754/fa8c5d91-e646-4d6c-bada-f46e49634dc1)
-![generated_img2](https://github.com/iamFury2K/docs/assets/73428754/0240ccaf-8829-4baf-8614-8789f269e67e)
-![generated_img8](https://github.com/iamFury2K/docs/assets/73428754/3b4cc644-3de3-4f44-bbe4-6fd356b5b68b)
-![generated_img5](https://github.com/iamFury2K/docs/assets/73428754/54317ba1-df39-4733-b24e-e377435eaadf)
-![generated_img3](https://github.com/iamFury2K/docs/assets/73428754/e208d48b-e956-40ee-9e5f-9dc8df586d16)
-![generated_img1](https://github.com/iamFury2K/docs/assets/73428754/2e45aec0-347f-4bc5-805e-213a7c2f3f8e)
+![generated_img8](https://github.com/iamFury2K/docs/assets/73428754/13245e8b-1ee8-45b6-ac99-b7cda319afb7)
+![generated_img7](https://github.com/iamFury2K/docs/assets/73428754/d7047437-1589-4bd4-9651-5c79b3c0a6c2)
+![generated_img5](https://github.com/iamFury2K/docs/assets/73428754/6215c4ee-2c1e-4328-b033-7d2908469e1a)
+![generated_img4](https://github.com/iamFury2K/docs/assets/73428754/c91b0f7b-a2db-48e0-a519-0661eb4fa296)
+![generated_img3](https://github.com/iamFury2K/docs/assets/73428754/c16cc7d1-3166-4127-9dbb-5c40f91b2586)
+![generated_img2](https://github.com/iamFury2K/docs/assets/73428754/3bca6ba1-b302-4b35-9f8b-4fdcfb0c7809)
+![generated_img1](https://github.com/iamFury2K/docs/assets/73428754/616214d0-4112-4fd6-88e9-e905e1cda245)
 
 
 
