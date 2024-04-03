@@ -60,14 +60,10 @@ The image generation and upscaling process utilize two different models:
 perfectly 
 ### Example Images
 
-
-![00002-2608941297](https://github.com/iamFury2K/docs/assets/73428754/e4e527c9-7a6e-48b5-807d-3301479ad6f3)
-![generated_img7](https://github.com/iamFury2K/docs/assets/73428754/d7047437-1589-4bd4-9651-5c79b3c0a6c2)
-![generated_img5](https://github.com/iamFury2K/docs/assets/73428754/6215c4ee-2c1e-4328-b033-7d2908469e1a)
-![generated_img4](https://github.com/iamFury2K/docs/assets/73428754/c91b0f7b-a2db-48e0-a519-0661eb4fa296)
-![generated_img3](https://github.com/iamFury2K/docs/assets/73428754/c16cc7d1-3166-4127-9dbb-5c40f91b2586)
-![generated_img2](https://github.com/iamFury2K/docs/assets/73428754/3bca6ba1-b302-4b35-9f8b-4fdcfb0c7809)
-![generated_img1](https://github.com/iamFury2K/docs/assets/73428754/616214d0-4112-4fd6-88e9-e905e1cda245)
+![00017-2490566838](https://github.com/iamFury2K/docs/assets/73428754/a2e4e643-7915-4d15-abb0-0424774de498)
+![00012-3861902238](https://github.com/iamFury2K/docs/assets/73428754/8044cfc1-790a-4cd6-b023-2e61881bbaa1)
+![00003-4240151202](https://github.com/iamFury2K/docs/assets/73428754/9067847c-840a-4d30-aca1-deb3745fa002)
+![00001-3331800810](https://github.com/iamFury2K/docs/assets/73428754/68b61310-50d6-4780-9dd4-ae599d4c6e00)
 
 
 
