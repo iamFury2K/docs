@@ -61,7 +61,7 @@ perfectly
 ### Example Images
 
 
-![generated_img8](https://github.com/iamFury2K/docs/assets/73428754/13245e8b-1ee8-45b6-ac99-b7cda319afb7)
+![00002-2608941297](https://github.com/iamFury2K/docs/assets/73428754/e4e527c9-7a6e-48b5-807d-3301479ad6f3)
 ![generated_img7](https://github.com/iamFury2K/docs/assets/73428754/d7047437-1589-4bd4-9651-5c79b3c0a6c2)
 ![generated_img5](https://github.com/iamFury2K/docs/assets/73428754/6215c4ee-2c1e-4328-b033-7d2908469e1a)
 ![generated_img4](https://github.com/iamFury2K/docs/assets/73428754/c91b0f7b-a2db-48e0-a519-0661eb4fa296)
